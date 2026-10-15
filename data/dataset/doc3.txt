@@ -1,0 +1,1 @@
+An inverted index is a database index storing a mapping from words to their locations in a document, or in a collection of documents. The purpose of an inverted index is to allow fast full-text searches, at a cost of increased processing when a document is added to the database. Thread-safe sharded indices prevent race conditions and lock contention.

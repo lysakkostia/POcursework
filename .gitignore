@@ -1,0 +1,19 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+search_server
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.user
+
+# Docker volume data
+ollama_data/
+ollama_models/
+*.log
